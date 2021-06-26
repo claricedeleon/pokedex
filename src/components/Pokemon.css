@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.pokemon {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+h1 {
+  margin: 2%;
+  color: dimgray;
+}
+
+.contents {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+}
+
+.nav-links {
+  width: 20%;
+}
+
+.characters {
+  width: 70%;
+}
